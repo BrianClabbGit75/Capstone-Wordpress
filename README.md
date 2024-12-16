@@ -6,7 +6,7 @@ Capstone WordPress site on AWS
 
 In this project I will be enhancing the online Presence of a digital marketing agency called DigitalBoost. A WordPress based website for their clients.
 
-Task1 a - Define IP address range for VPC
+<ins>Task1 a - Define IP address range for VPC</ins>
 
 Please see following CIDR Block & Subnets
 

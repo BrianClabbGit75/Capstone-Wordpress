@@ -20,7 +20,8 @@ VPC CIDR block: 10.0.0.0/16
 
 •	Private subnet 2: 10.0.3.0/24 (additional resources)
 
+<ins>Task1 b - Create a VPC with public and private Subnet</ins>
 
-
+Please see VPC in AWS Console
 
 

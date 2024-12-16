@@ -12,10 +12,14 @@ Please see following CIDR Block & Subnets
 
 VPC CIDR block: 10.0.0.0/16
 
-•	Public subnet 1: 10.0.0.0/24 (for your web servers)
-•	Public subnet 2: 10.0.1.0/24 (for your load balancer)
-•	Private subnet 1: 10.0.2.0/24 (for your database servers)
-•	Private subnet 2: 10.0.3.0/24 (for additional resources)
+•	Public subnet 1: 10.0.0.0/24 (web servers)
+
+•	Public subnet 2: 10.0.1.0/24 (load balancer)
+
+•	Private subnet 1: 10.0.2.0/24 (database servers)
+
+•	Private subnet 2: 10.0.3.0/24 (additional resources)
+
 
 
 

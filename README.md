@@ -24,5 +24,5 @@ VPC CIDR block: 10.0.0.0/16
 
 Please see VPC in AWS Console
 
-![project-directory](images/Screenshot1.png)
+![Screenshot 1](images/screenshot1.png)
 

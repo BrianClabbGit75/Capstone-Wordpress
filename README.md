@@ -33,6 +33,10 @@ Please see VPC in AWS Console
 
 <ins>Task1 c - Configure route tables for each subnet </ins>
 
-Now that the VPC and Subnets are created, I create Route Tables for both Public and Private subnets - please see route table:
+Now that the VPC and Subnets are created, I create Route Tables for both Public and Private subnets - please see route table, and subnet associations:
 ![Screenshot 1](images/screenshot3.png)
+
+And because we have two Public Subnets and associated Route Tables-this is the Internet gateway:
+
+![Screenshot 1](images/screenshot4.png)
 

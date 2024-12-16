@@ -26,3 +26,10 @@ Please see VPC in AWS Console
 
 ![Screenshot 1](images/screenshot1.png)
 
+
+...additionally see created Public & Private Subnets
+
+![Screenshot 1](images/screenshot2.png)
+
+<ins>Task1 c - Configure route tables for each subnet </ins>
+

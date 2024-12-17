@@ -62,8 +62,11 @@ Steps are as follows:
 How to create a NAT gateway in AWS:
 
 •	Create a public subnet: This is where your NAT gateway will reside - Public Subnet 1
+
 •	Create an internet gateway: This is the gateway that connects your VPC to the internet. - This has been created - see above
+
 •	Create a route table for your public subnet: This route table will tell your instances to use the internet gateway to reach the internet.- This has been created-see above
+
 
 I have allocated the Primary Private IP address from Private Subnet 1 ( 10.0.2.0/24 ) - 10.0.2.5
 

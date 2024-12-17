@@ -74,5 +74,7 @@ See NAT gateway created
 
 ![Screenshot 1](images/screenshot5.png)
 
+**Note As NAT Gateways are billed hourly-this will be deleted and recreated as this Project continues**
+
    
 

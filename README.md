@@ -83,7 +83,9 @@ Finally, I have instructed Private Route-Table-1 to use the NAT gateway to reach
 
 <ins>Task3 - AWS MySQL RDS Setup</ins>
 
-Before we look at the subtasks - I will install WordPress & SQL etc to my local Ubuntu Laptop - please see text file with instructions-located in Docs folder
+Before we look at the subtasks - I will install WordPress & SQL etc onto my WebServer - please see text file with instructions-located in Docs folder.
+Please see SSH connection to WebServer Linux AMI ec2-user@ec2-51-20-185-231.eu-north-1.compute.amazonaws.com - having already created a key pair Linux1.pem-with permission chmod 400 linux1.pem - applied:
 
+![Screenshot 1](images/screenshot7.png)
    
 

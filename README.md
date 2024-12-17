@@ -76,5 +76,10 @@ See NAT gateway created
 
 **Note As NAT Gateways are billed hourly-this will be deleted and recreated as this Project continues**
 
+Finally, I have instructed Route-Table-1 to use the NAT gateway to reach the internet, This route will specify that all traffic destined for the internet (0.0.0.0/0) should be sent to the NAT gateway:
+
+![Screenshot 1](images/screenshot6.png)
+
+
    
 
